@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>saillin的照相馆</title>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+	<link rel="stylesheet" href="dist/stylesheets/chromagallery.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="images/ico/36b3ee2d91ed.ico">
+	<style type="text/css">
+		body,html
+		{
+			height: 100%;
+		}
+		.content
+		{
+			width: 100%;
+			height: 100%;
+			margin: 10px auto;
+		}
+		@media screen and (min-width: 980px) /* Desktop */ {
+		  .content {
+		    width: 70%;
+		  }
+		}
+		.mygallery
+		{
+			margin: 25px 0;
+		}
+	</style>
+	<!--[if IE]>
+		<script src="http://libs.useso.com/js/html5shiv/3.7/html5shiv.min.js"></script>
+	<![endif]-->
+</head>
+<body style="background-color:#696969;">
+<h2>σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ 拍下美好瞬间</h2>
+    <div class="content">
+			<div class="chroma-gallery mygallery">
+				<img src="images/thumbs/1.jpg" alt="阳光" data-largesrc="images/1.jpg">
+				<img src="images/thumbs/2.jpg" alt="竹林" data-largesrc="images/2.jpg">
+				<img src="images/thumbs/3.jpg" alt="女孩" data-largesrc="images/3.jpg">
+				<img src="images/thumbs/4.jpg" alt="跳伞" data-largesrc="images/4.jpg">
+				<img src="images/thumbs/5.jpg" alt="三轮车" data-largesrc="images/5.jpg">
+				<img src="images/thumbs/6.jpg" alt="猫咪" data-largesrc="images/6.jpg">
+				<img src="images/thumbs/7.jpg" alt="狗" data-largesrc="images/7.jpg">
+				<img src="images/thumbs/8.jpg" alt="海滩" data-largesrc="images/8.jpg">
+				<img src="images/thumbs/9.jpg" alt="海滩" data-largesrc="images/9.jpg">
+				<img src="images/thumbs/10.jpg" alt ="壮观" data-largesrc="images/10.jpg">
+			</div>
+    </div>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+	<script src="dist/scripts/chromagallery.pkgd.min.js"></script>
+	<script type="text/javascript">
+		// $(document).ready(function()
+		// {
+		//     $(".mygallery").chromaGallery();
+		// });
+		$(document).ready(function(){
+			$(".mygallery").chromaGallery
+		    ({
+		        color:'#000000',
+		        gridMargin:15,
+		        maxColumns:5,
+		        dof:true,
+		        screenOpacity:0.8
+		    });
+		});
+
+	</script>
+<h2><a href="about.html">关于</a></h2>
+    </body>
+</html>
