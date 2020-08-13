@@ -18,7 +18,7 @@
 				artist: '伍佰',
 				album: '滚石香港黄金十年 伍佰精选.mp3',
 				cover: 'img/2.jpg',
-				mp3: 'http://116.199.2.183/amobile.music.tc.qq.com/C400003yK0ou2rX8rF.m4a?guid=5456928642&vkey=D31E5D500F1A58CCF24CC2FACDFA15ECDAE311021E2A78F373F485C3E63BA5DAD3752DD2702E2B60BEEFD36CF449AA4424DAFB36A2A74637&uin=0&fromtag=66.mp3',
+				mp3: 'https://sharefs.yun.kugou.com/202008132322/c01450004f4faa739020333b0d9bafef/G189/M0B/10/09/nZQEAF5cqxGAeMWIAGDMipHeGP4315.mp3',
 				ogg: ''
 			},
 			{
@@ -34,7 +34,7 @@
 				artist: 'beyond',
 				album: '命运派对',
 				cover: 'img/4.jpg',
-				mp3: 'http://116.199.2.183/amobile.music.tc.qq.com/C40000182Rsa42ANA9.m4a?guid=5456928642&vkey=EF535B4B38B4BF462D1399326FDDED34DA071E022A7FF1A65366ECA26C60EAC2CC807DFB27F6E64C57BF7B5C33CE7B1F8093D3926F34B32D&uin=0&fromtag=66.mp3',
+				mp3: 'https://sharefs.yun.kugou.com/202008132333/30e9c31219366ddbeb3400e4a9088099/G192/M0B/14/11/oJQEAF5NayuAKKWHAEkVtrsbqhc911.mp3',
 				ogg: ''
 			},
                         {
@@ -75,6 +75,118 @@
 				album: 'Beautiful Times',
 				cover:'img/9.jpg',
 				mp3: 'https://sharefs.yun.kugou.com/202008131309/cce6eb560d3bc8473a51b522256d4b4e/G196/M08/01/19/pJQEAF563LiAbKmNADIAAMmYRgw116.mp3',
+				ogg: ''
+			},
+                        {
+				title: '海阔天空',
+				artist: 'beyond',
+				album: '乐与怒',
+				cover:'img/10.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=346089.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+                        },
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你不是真正的快乐',
+				artist: '五月天',
+				album: '后青春的诗',
+				cover:'img/11.jpg',
+				mp3: 'https://www.joy127.com/url/10415.mp3',
 				ogg: ''
 			},
 			];
