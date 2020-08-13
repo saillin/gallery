@@ -37,6 +37,46 @@
 				mp3: 'http://116.199.2.183/amobile.music.tc.qq.com/C40000182Rsa42ANA9.m4a?guid=5456928642&vkey=EF535B4B38B4BF462D1399326FDDED34DA071E022A7FF1A65366ECA26C60EAC2CC807DFB27F6E64C57BF7B5C33CE7B1F8093D3926F34B32D&uin=0&fromtag=66.mp3',
 				ogg: ''
 			},
+                        {
+				title: '不浪漫罪名',
+				artist: '王杰',
+				album: '万岁2001',
+				cover:'img/5.jpg',
+				mp3: 'https://www.joy127.com/url/465.mp3',
+				ogg: ''
+			},
+                        {
+				title: '安和桥',
+				artist: '宋冬野',
+				album: '安和桥北',
+				cover:'img/6.jpg',
+				mp3: 'https://www.joy127.com/url/8994.mp3',
+				ogg: ''
+			},
+                        {
+				title: '不找了',
+				artist: '郭旭',
+				album: '专辑',
+				cover:'img/7.jpg',
+				mp3: 'https://www.joy127.com/url/10290.mp3',
+				ogg: ''
+			},
+                        {
+				title: '钟无颜',
+				artist: '谢安琪',
+				album: '专辑',
+				cover:'img/8.jpg',
+				mp3: 'https://sharefs.yun.kugou.com/202008131249/3d92fdf83490d524f23a9ba5e3a2fbf2/G201/M06/03/13/CQ4DAF5RWqWAbYR_AEPLZDQ267s956.mp3',
+				ogg: ''
+			},
+                        {
+				title: 'Beautiful Times',
+				artist: 'Owl City',
+				album: 'Beautiful Times',
+				cover:'img/9.jpg',
+				mp3: 'https://sharefs.yun.kugou.com/202008131309/cce6eb560d3bc8473a51b522256d4b4e/G196/M08/01/19/pJQEAF563LiAbKmNADIAAMmYRgw116.mp3',
+				ogg: ''
+			},
 			];
 
 	// Load playlist
