@@ -8,7 +8,7 @@
 			{
 				title: '斑马随弹',
 				artist: 'saillin',
-				album: '专辑.mp3',
+				album: '专辑',
 				cover:'img/1.jpg',
 				mp3: 'https://www.joy127.com/uploads/mp3/202008/13/1597250650380.mp3',
 				ogg: ''
@@ -16,15 +16,15 @@
 			{
 				title: '挪威的森林',
 				artist: '伍佰',
-				album: '滚石香港黄金十年 伍佰精选.mp3',
+				album: '滚石香港黄金十年 伍佰精选',
 				cover: 'img/2.jpg',
 				mp3: 'http://music.163.com/song/media/outer/url?id=157288.mp3',
 				ogg: ''
 			},
 			{
-				title: 'chenparty dj.mp3',
+				title: 'chenparty dj',
 				artist: '德国童声',
-				album: 'chenparty 超好听的德国童声 dj.mp3',
+				album: 'chenparty 超好听的德国童声 dj',
 				cover: 'img/3.jpg',
 				mp3: 'http://rm.sina.com.cn/wm/VZ2010050511043310440VK/music/MUSIC1005051622027270.mp3',
 				ogg: ''
@@ -97,96 +97,160 @@
 				title: '断点',
 				artist: '张敬轩',
 				album: '',
-				cover:'',
+				cover:'img/12.jpg',
 				mp3: 'http://music.163.com/song/media/outer/url?id=189323.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '爱你',
+				artist: '陈芳语',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/13.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=22852057.mp3',
 				ogg: ''
                         },
                         {
-				title: '',
-				artist: '',
+				title: '去年夏天',
+				artist: '王大毛',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/14.jpg',
+				mp3: 'https://www.joy127.com/url/6726.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '去年夏天',
+				artist: '家家',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/15.jpg',
+				mp3: 'https://www.joy127.com/url/10938.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '有点甜',
+				artist: '泥鳅Niko,小泥丸',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/16.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=430685474.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '无尽空虚',
+				artist: 'Beyond',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/17.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=346591.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '喜欢你',
+				artist: 'G.E.M.邓紫棋',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/18.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=28949444.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: 'My Love',
+				artist: 'Westlife',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/19.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=572412968.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '突然的自我 ',
+				artist: '伍佰',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/2.jpg',
+				mp3: 'https://www.joy127.com/url/10939.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '穿越时空的思念',
+				artist: 'DiESi',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/20.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=1345395655.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '天空之城（经典钢琴版）',
+				artist: '（翻自 久石譲） - dylanf',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/21.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=864711417.mp3',
 				ogg: ''
 			},
                         {
-				title: '',
-				artist: '',
+				title: '模特',
+				artist: '李荣浩',
 				album: '',
-				cover:'',
-				mp3: '',
+				cover:'img/22.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=27731176.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你的酒馆对我打了烊',
+				artist: '陈雪凝',
+				album: '',
+				cover:'img/23.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=1341964346.mp3',
+				ogg: ''
+			},
+                        {
+				title: '绿色',
+				artist: '陈雪凝',
+				album: '',
+				cover:'img/24.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=1345848098.mp3',
+				ogg: ''
+			},
+                        {
+				title: '灰姑娘',
+				artist: '陈雪凝',
+				album: '',
+				cover:'img/25.jpg',
+				mp3: 'https://www.joy127.com/url/10941.mp3',
+				ogg: ''
+			},
+                        {
+				title: '成都',
+				artist: '赵雷',
+				album: '',
+				cover:'img/26.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=436514312.mp3',
+				ogg: ''
+			},
+                        {
+				title: '理想',
+				artist: '赵雷',
+				album: '',
+				cover:'img/27.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=29567189.mp3',
+				ogg: ''
+			},
+                        {
+				title: '小幸运',
+				artist: '田馥甄',
+				album: '',
+				cover:'img/28.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=33206214.mp3',
+				ogg: ''
+			},
+                        {
+				title: '寂寞寂寞就好',
+				artist: '田馥甄',
+				album: '',
+				cover:'img/29.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=296885.mp3',
+				ogg: ''
+			},
+                        {
+				title: '你就不要想起我',
+				artist: '田馥甄',
+				album: '',
+				cover:'img/30.jpg',
+				mp3: 'http://music.163.com/song/media/outer/url?id=28018075.mp3',
 				ogg: ''
 			},
 			];
